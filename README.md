@@ -20,4 +20,4 @@ Self By Now.
 
 ## License
 
-MIT © Chester Lin
+MIT © learner-lin

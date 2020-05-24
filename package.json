@@ -1,0 +1,22 @@
+{
+  "name": "lodash_pp",
+  "version": "1.0.0",
+  "description": "Coding lodash project for the purpose of personal pratice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learner-Lin/lodash_pp.git"
+  },
+  "author": "learner-lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learner-Lin/lodash_pp/issues"
+  },
+  "homepage": "https://github.com/learner-Lin/lodash_pp#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
